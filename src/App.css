@@ -1,0 +1,19 @@
+.user {
+    width: 250px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 15px;
+    background-color: hwb(30 10% 13%);
+    border-radius: 20px;
+    border: 1px solid;
+}
+
+.user h1 {
+    text-align: center;
+    color: white;
+}
+
+.user p {
+    color: white;
+    font-weight: bold;
+}
